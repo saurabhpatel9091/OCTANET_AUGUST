@@ -1,0 +1,126 @@
+div{
+    height: 800px;
+    width: 1500px;
+    background-color: white;
+}
+#nav{
+height: 100px;
+width: 1500px;
+background-color: rgb(71, 96, 254);
+
+}
+.nav0{
+height: 100px;
+width: 200px;
+background-color:  rgb(71, 96, 254);
+color: white;
+float: left;
+
+}
+.nav1{
+height: 100px;
+width: 500px;
+background-color:  rgb(71, 96, 254);
+color: white;
+float: left;
+
+}
+.nav2{
+height: 100px;
+width: 130px;
+background-color:  rgb(71, 96, 254);
+color: white;
+float: left;
+text-align: center;
+}
+.nav3{
+height: 100px;
+width: 130px;
+background-color:  rgb(71, 96, 254);
+color: white;
+float: left;
+text-align: center;
+}
+.nav6{
+height: 100px;
+width: 130px;
+background-color:  rgb(71, 96, 254);
+color: white;
+float: left;
+text-align: center;
+}
+.nav8{
+height: 100px;
+width: 80px;
+background-color:   rgb(71, 96, 254);
+color: white;
+float: left;
+text-align: center;
+}
+.nav9{
+height: 100px;
+width: 150px;
+background-color: rgb(71, 96, 254);
+color: white;
+float: left;
+text-align: center;
+}
+.nav10{
+height: 100px;
+width: 150px;
+background-color: rgb(71, 96, 254);
+color: white;
+float: left;
+text-align: center;
+}
+span:hover{
+background-color: white;
+border-radius: 5px;
+padding: 5px;
+color: black;
+font-size: 15px;
+}
+
+#main{
+height: 800px;
+width: 1500px;
+background-image: url(portrait-young-sportive-girl-training-with-dumbbells-isolated-blue-background-neon.jpg);
+background-size: cover;
+text-align: left;
+}
+#box{
+height: 300px;
+width: 1500px;
+float: left;
+background-color: white;
+}
+.flex1{
+height: 300px;
+width: 1500px;
+display: flex;
+flex-wrap: wrap;
+background-color: white;
+align-content: center;
+align-items: center;
+flex-direction: column;
+}
+
+.flex1 div {
+background-color: rgb(245,245,245);
+height: 300px;
+width: 350px;
+margin: 10px;
+}
+.span3{
+color: red;
+}
+.img1:hover{
+transform: scale(1.1);
+}
+
+#bottom{
+height: 50px;
+width: 1500px;
+background-color:rgb(71, 96, 254) ;
+
+}       
